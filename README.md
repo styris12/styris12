@@ -1,9 +1,9 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/736x/6c/d0/c6/6cd0c6f8669d70bcce1604e9216a3ee3.jpg"  />
+  <img height="370" src="https://i.pinimg.com/736x/6c/d0/c6/6cd0c6f8669d70bcce1604e9216a3ee3.jpg"  />
 </div>
 
 # About Me 💫:
-Hi, I'm **Styris**, Welcome to my profile <br>🎓 Engineering Student at St Francis Institute of Technology <br> 🚀 Exploring Data Science & Web Development<br>💡 Interests: AI/ML, Cybersecurity, and Designing<br>🎯 Goal: Build cool projects & keep learning<br>🤓 Random Fact: I enjoy solving problems, even if it means Googling half the time!<br><br>"The journey of a thousand miles begins with a single step." 🚀<br><br>🌍  I'm based in India<br>✉️  You can contact me at dcruzstyris@gmail.com <a href="mailto:dcruzstyris@gmail.com" target="_blank"><br>
+Hi, I'm **Styris**, Welcome to my profile <br>🎓 Engineering Student at St Francis Institute of Technology <br> 🚀 Exploring Data Science & Web Development<br>💡 Interests: AI/ML, Cybersecurity, and Designing<br>🎯 Goal: Build cool projects & keep learning<br><br>"The journey of a thousand miles begins with a single step." 🚀<br><br>🌍  I'm based in India<br>✉️  You can contact me at dcruzstyris@gmail.com <a href="mailto:dcruzstyris@gmail.com" target="_blank">
 
 # Socials 🌐:
 <div align="center">
@@ -16,13 +16,9 @@ Hi, I'm **Styris**, Welcome to my profile <br>🎓 Engineering Student at St Fra
   <a href="https://instagram.com/styris.dcruz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&height=40" alt="Instagram"/>
   </a>
-  <a href="https://pinterest.com/dcruzstyris" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white&height=40" alt="Pinterest"/>
-  </a>
   <a href="https://stackoverflow.com/users/22601330" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&height=40" alt="Stack Overflow"/>
   </a>
- 
 </div>
 
 # Tech Stack 💻:
@@ -33,9 +29,10 @@ Hi, I'm **Styris**, Welcome to my profile <br>🎓 Engineering Student at St Fra
   <img src="https://github-readme-stats.vercel.app/api?username=styris12&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&border_color=ffffff" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=styris12&theme=codeSTACKr&hide_border=false&border_color=ffffff" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=styris12&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_color=ffffff" height="170"/>
-</div>
+  <img height="170" src="https://i.pinimg.com/736x/54/01/88/54018835313531c23dd01080002d39fc.jpg" />
+</div><br>
 
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 10px">
   <img src="https://komarev.com/ghpvc/?username=styris12&color=blueviolet&style=flat-square" alt="Profile views"/>
 </div>
 
