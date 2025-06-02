@@ -16,9 +16,6 @@ Hi, I'm **Styris**, Welcome to my profile <br>🎓 Engineering Student at St Fra
   <a href="https://instagram.com/styris.dcruz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&height=40" alt="Instagram"/>
   </a>
-  <a href="https://stackoverflow.com/users/22601330" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&height=40" alt="Stack Overflow"/>
-  </a>
 </div>
 
 # Tech Stack 💻:
